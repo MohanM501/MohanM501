@@ -1,7 +1,7 @@
 
 ### Hi there 👋, Mohan M
 #### Full Stack Web Developer
-![Full Stack Web Developer]https://github.com/MohanM501/MohanM501/blob/main/WhatsApp%20Image%202022-01-30%20at%2011.27.52%20PM.jpeg
+![Full Stack Web Developer]https://github.com/MohanM501/MohanM501/blob/main/WhatsApp%20Image%202022-01-30%20at%2011.27.52%20PM.jpeg?raw=true
 
 I am an enthusiastic MERN stack Developer. Passionate about coding and problem-solving.
 
