@@ -2,7 +2,7 @@
 ### Hi there 👋, Mohan M
 #### Aspiring Full Stack Web Developer.
 
-![I am GitHub Readme Generator's creator](https://avatars.githubusercontent.com/u/107466981?v=4)
+![I am GitHub Readme Generator's creator](https://avatars.githubusercontent.com/u/107466981?)
 
 
 
