@@ -1,18 +1,20 @@
 
 <h1 align="left">Hi 👋, I'm Mohan M</h1>
 <h3 align="left">A passionate full stack developer from Bangalore,India</h3>
-<h3>Believes in Team Work to achieve greater things and Eager to upskill myself to become a better version of myself</h3>
+<h4>Believes in Team Work to achieve greater things and Eager to upskill myself to become a better version of myself</h4>
 
 
-- 🌱 I’m currently learning **Full-stack Web Developement(MERN stack) from Masai School**
+-   🌱 I’m currently learning **Full-stack Web Developement(MERN stack) from Masai School**
 
-- 💬 About Me ** 
+💬 About Me ** 
 
 <ul>
  <li>Interested in Web Development and Technologies,</li>
  <li>Loves DSA and problem solving,</li> 
  <li>Open to learn new skills,</li>
- <li>Post-Graduate in product Design and Manufacturing & Graduated in Mechanical Engineering</li>** </ul>
+ <li>Post-Graduate in product Design and Manufacturing & Graduated in Mechanical Engineering</li>
+</ul>
+ **
 
 
 
