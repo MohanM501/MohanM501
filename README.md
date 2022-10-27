@@ -1,6 +1,6 @@
 
 <h1 align="left">Hi 👋,  I'm Mohan M</h1>
-<h3 align="left">A passionate full stack developer from Bangalore,India</h3>
+<h3 align="left">A passionate full stack developer </h3>
 <h4>Believes in team work to achieve greater things and Eager to upskill myself to become a better version of myself</h4>
 
 
