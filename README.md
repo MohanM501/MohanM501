@@ -13,14 +13,14 @@
  <li><h4>Looking forward to learn new skills,</h4></li>
  <li><h4>Post-Graduate in product Design and Manufacturing & Graduated in Mechanical Engineering</h4></li>
 </ul>
- **
+<h3>**</h3>
 
 
 
 <h2 align="left">🤝 Connect with me: 🔗</h2>
 <p align="left">
-<a href="https://dev.to/https://mohanm501.github.io/" target="blank"><img align="center" src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="https://mohanm501.github.io/" height="50" width="140" /></a>
-<a href="www.linkedin.com/in/mohan-m-connect/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/mohan-m-connect/" height="50" width="140" /></a>
+<a href="https://mohanm501.github.io/" target="blank"><img align="center" src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="https://mohanm501.github.io/" height="50" width="140" /></a>
+<a href="https://www.linkedin.com/in/mohan-m-connect/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/mohan-m-connect/" height="50" width="140" /></a>
 </p>
 
 
