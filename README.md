@@ -1,17 +1,17 @@
 
-<h1 align="left">Hi 👋,  I'm Mohan M</h1>
-<h3 align="left">A passionate full stack developer </h3>
-<h4>Believes in team work to achieve greater things and Eager to upskill myself to become a better version of myself</h4>
+<h1 align="left">Hi 👋,   I'm Mohan M</h1>
+<h2 align="left">A passionate full stack developer </h2>
+<h3>Believes in team work to achieve greater things and Eager to upskill myself to become a better version of myself</h3>
 
 
 -   🌱 I’m currently learning **Full-stack Web Developement(MERN stack) from Masai School**
 
-💬 About Me ** 
+<h3>💬 About Me ** </h3>
 <ul>
- <li>Interested in Web Development and Technologies,</li>
- <li>Loves DSA and problem solving,</li> 
- <li>Looking forward to learn new skills,</li>
- <li>Post-Graduate in product Design and Manufacturing & Graduated in Mechanical Engineering</li>
+ <li><h4>Interested in Web Development and Technologies,</h4></li>
+ <li><h4>Loves DSA and problem solving,</h4></li> 
+ <li><h4>Looking forward to learn new skills,</h4></li>
+ <li><h4>Post-Graduate in product Design and Manufacturing & Graduated in Mechanical Engineering</h4></li>
 </ul>
  **
 
