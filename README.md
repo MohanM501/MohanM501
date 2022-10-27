@@ -27,5 +27,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohanm501&" alt="mohanm501" /></p>
 
+<img src="https://github-readme-stats.vercel.app/api?username=MohanM501&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GithubStats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MohanM501&theme=dark&hide_border=true" alt="Total_Contribution"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohanM501&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="mostUsedLanguage" />
+
 
 
