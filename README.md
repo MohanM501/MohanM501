@@ -11,7 +11,7 @@
  <li><h4>Interested in Web Development and Technologies,</h4></li>
  <li><h4>Loves DSA and problem solving,</h4></li> 
  <li><h4>Looking forward to learn new skills,</h4></li>
- <li><h4>Post-Graduate in product Design and Manufacturing & Graduated in Mechanical Engineering</h4></li>
+ <li><h4>Post-Graduate in Product Design and Manufacturing & Graduated in Mechanical Engineering</h4></li>
 </ul>
 <h3>**</h3>
 
