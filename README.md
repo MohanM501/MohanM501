@@ -1,13 +1,12 @@
 
 <h1 align="left">Hi 👋,   I'm Mohan M</h1>
 <h2 align="left">A passionate full stack developer from Bangalore, India </h2>
-<h3>Believes in team work to achieve greater things and eager to upskill myself to become a better version of myself</h3>
+<h3>Believer in team work to achieve greater things and eager to upskill myself to become a better version of myself</h3>
 
-
--   🌱 I’m currently learning **Full-stack Web Developement(MERN stack) from Masai School**
 
 <h3>💬 About Me ** </h3>
 <ul>
+ <li><h4>🌱 I’m currently learning **Full-stack Web Developement(MERN stack) from Masai School**</h4></li>
  <li><h4>Interested in Web Development and Technologies,</h4></li>
  <li><h4>Loves DSA and problem solving,</h4></li> 
  <li><h4>Looking forward to learn new skills,</h4></li>
