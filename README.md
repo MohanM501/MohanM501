@@ -29,7 +29,7 @@
 
 <h2>📝 My GitHub Stats: </h2>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohanM501"/></P>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohanM501&theme=tokyonight&hide_border=true"/></P>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohanm501&show_icons=true&locale=en" alt="mohanm501" /></p>
 
