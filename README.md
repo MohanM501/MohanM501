@@ -3,7 +3,6 @@
 <h2 align="left">A passionate full stack developer from Bangalore, India </h2>
 <h3>Believer in team work to achieve greater things and eager to upskill myself to become a better version of myself</h3>
 
-
 <h3>💬 About Me ** </h3>
 <ul>
  <li><h4>🌱 I’m currently learning **Full-stack Web Developement(MERN stack) from Masai School**</h4></li>
