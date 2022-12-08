@@ -7,15 +7,15 @@
 <img  alt="mern_log" width="340"  height="340" src="https://img.freepik.com/free-vector/professional-programmer-engineer-writing-code_3446-693.jpg?size=338&ext=jpg&ga=GA1.2.1367629758.1666446096"/>
 </p>
 
-<h3>💬 About Me ** </h3>
+<h2>💬 About Me ** </h2>
 <ul>
- <li><h4>🌱 I’m currently learning **Full-stack Web Developement(MERN stack) from Masai School**</h4></li>
- <li><h4>Interested in Web Development and Technologies,</h4></li>
- <li><h4>Loves DSA and problem solving,</h4></li> 
- <li><h4>Looking forward to learn new skills,</h4></li>
- <li><h4>Post-Graduate in Product Design and Manufacturing & Graduated in Mechanical Engineering</h4></li>
+ <li><h3>🌱 I’m currently learning **Full-stack Web Developement(MERN stack) from Masai School**</h3></li>
+ <li><h3>Interested in Web Development and Technologies,</h3></li>
+ <li><h3>Loves DSA and problem solving,</h3></li> 
+ <li><h3>Looking forward to learn new skills,</h3></li>
+ <li><h3>Post-Graduate in Product Design and Manufacturing & Graduated in Mechanical Engineering</h3></li>
 </ul>
-<h3>**</h3>
+<h4>**</h4>
 
 <br/>
 
