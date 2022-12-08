@@ -3,7 +3,7 @@
 <h2 align="left">A passionate full stack developer from Bangalore, India </h2>
 <h3>Believer in team work to achieve greater things and eager to upskill myself to become a better version of myself</h3>
 
-<img src="https://rms.koenig-solutions.com/Sync_data/CCE_Logo//2813-HowtoMigrateOnPremisesVirtualMachinestoAWS(1)(1).pngL.jpg" alt="mern_log" width="240" height="240"/>
+<img align="center" alt="mern_log" width="340"  height="340" src="https://img.freepik.com/free-vector/professional-programmer-engineer-writing-code_3446-693.jpg?size=338&ext=jpg&ga=GA1.2.1367629758.1666446096" />
 
 <h3>💬 About Me ** </h3>
 <ul>
