@@ -4,7 +4,7 @@
 <h3>Believer in team work to achieve greater things and eager to upskill myself to become a better version of myself</h3>
 
 <p align="center">
-<img  alt="mern_log" width="340"  height="340" src="https://img.freepik.com/free-vector/professional-programmer-engineer-writing-code_3446-693.jpg?size=338&ext=jpg&ga=GA1.2.1367629758.1666446096"/>
+<img  alt="mern_log" width="680"  height="340" src="https://www.lambdatest.com/resources/images/news24.gif"/>
 </p>
 
 <h2>💬 About Me ** </h2>
