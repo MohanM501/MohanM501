@@ -1,7 +1,7 @@
 <br/>
 <h1 align="left">Hi 👋,   I'm Mohan M</h1>
-<h2 align="left">A passionate full stack developer from Bangalore, India </h2>
-<h3>Believer in team work to achieve greater things and eager to upskill myself to become a better version of myself</h3>
+<h2 align="left"> An enthusiastic full stack developer skilled in MERN stack who focuses on writing clean and efficient code from Bangalore, India </h2>
+<h3> Curious about technologies, loves challenges and eager to overcome it to become a better version of myself</h3>
 
 <p align="center">
 <img  alt="mern_log" width="600"  height="300" src="https://www.lambdatest.com/resources/images/news24.gif"/>
@@ -11,8 +11,10 @@
 <ul>
  <li><h3>🌱 I’m currently learning **Full-stack Web Developement(MERN stack) from Masai School**</h3></li>
  <li><h3>Interested in Web Development and Technologies,</h3></li>
- <li><h3>Loves DSA and problem solving,</h3></li> 
- <li><h3>Looking forward to learn new skills,</h3></li>
+ <li><h3>Believer in team work to achieve greater things,</h3></li>
+ <li><h3>Passionate about DSA, problem solving, Debugging, and Team work,</h3></li>
+ <li><h3>Spent 1200+ hours in coding and DSA,  and Carried out several group and indivisual projects,</h3></li>
+ <li><h3>Looking forward to start my career and learn new skills ,</h3></li>
  <li><h3>Post-Graduate in Product Design and Manufacturing & Graduated in Mechanical Engineering</h3></li>
 </ul>
 <h4>**</h4>
