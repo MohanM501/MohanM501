@@ -3,7 +3,7 @@
 <h2 align="left"> An enthusiastic full stack developer skilled in MERN stack who focuses on writing clean and efficient code from Bangalore, India </h2>
 <h3> Curious about technologies, loves challenges and eager to overcome it to become a better version of myself</h3>
 
-<p align="center">
+<p align="center" style="margin-top: 800px;">
 <img  alt="mern_log" width="600"  height="300" src="https://www.lambdatest.com/resources/images/news24.gif"/>
 </p>
 
