@@ -45,12 +45,12 @@
 
 <h2>📝 My GitHub Stats: </h2>
 
-<p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohanM501&theme=tokyonight&hide_border=true"/></P>
+<p align="center" ><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=snikhil2001&bg_color=0D1117&color=5BCDEC&hide_border=false&width=100vh" width="500px" /></P>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohanm501&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="mohanm501" />
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MohanM501&hide_border=true&theme=react&hide_border=true&bg_color=0D1117" width="500px" alt="mohanm501" />
 </p>
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MohanM501&theme=tokyonight&hide_border=true" alt="Total_Contribution"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MohanM501&theme=tokyonight&hide_border=true" alt="Total_Contribution" width="500px"/>
 </p>
 
 
