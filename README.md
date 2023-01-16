@@ -13,7 +13,7 @@
  <li><h3>Interested in Web Development and Technologies,</h3></li>
  <li><h3>Believer in team work to achieve greater things,</h3></li>
  <li><h3>Passionate about DSA, problem solving, debugging, and team work,</h3></li>
- <li><h3>Spent 1200+ hours in coding and DSA,  and Carried out several group and indivisual projects,</h3></li>
+ <li><h3>Spent 1200+ hours in coding and DSA,  and carried out several group and indivisual projects,</h3></li>
  <li><h3>Looking forward to start my career and learn new skills ,</h3></li>
  <li><h3>Post-Graduate in Product Design and Manufacturing & Graduated in Mechanical Engineering</h3></li>
 </ul>
