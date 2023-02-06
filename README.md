@@ -1,7 +1,7 @@
 <br/>
 <h1 align="left">Hi 👋,   I'm Mohan M</h1>
 <h2 align="left"> Aspiring full stack developer skilled in MERN stack from Bangalore, India </h2>
-<h3 align="left" style="font-family:Italic"><i>Loves challenge and eager to overcome it to become a better version of myself</i></h3>
+<!-- <h3 align="left" style="font-family:Italic"><i>Loves challenge and eager to overcome it to become a better version of myself</i></h3> -->
 
 <p align="center" style="margin-top: 800px;">
 <img  alt="mern_log" width="600"  height="300" src="https://www.lambdatest.com/resources/images/news24.gif"/>
