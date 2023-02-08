@@ -29,9 +29,9 @@
 
 <h2 align="left">🛠 Languages and Tools: </h2>
 <p align="center"> 
+ <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="80" height="80"/> </a> &ensp;
  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="80" height="80"/> &ensp; </a> 
 <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="80" height="80"/> </a> &ensp;
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="80" height="80"/> </a> &ensp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="80" height="80"/> </a> &ensp;
  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="80" height="80"/> </a> &ensp;
  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="80" height="80"/> </a> &ensp;
@@ -43,7 +43,7 @@
 
 <h2>📝 My GitHub Stats: </h2>
 
-<p align="center" ><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=snikhil2001&bg_color=0D1117&color=5BCDEC&hide_border=false&width=100vh" width="500px" /></P>
+<p align="center" ><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MohanM501&bg_color=0D1117&color=5BCDEC&hide_border=false&width=100vh" width="500px" /></P>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MohanM501&hide_border=true&theme=react&hide_border=true&bg_color=0D1117" width="500px" alt="mohanm501" />
 </p>
