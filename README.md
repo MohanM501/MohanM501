@@ -35,7 +35,7 @@
  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="80" height="80"/> </a> &ensp;
  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="80" height="80"/> </a> &ensp;
  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="80" height="80"/> </a> &ensp;
-<a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://i.ibb.co/qryPSdD/icons8-redux-480.png" alt="heroku" width="80" height="80"/> </a> &ensp;
+<a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYq35wIe6UgRB_eZ-p84XKMippCgl0KobVGA&usqp=CAU" alt="heroku" width="80" height="80"/> </a> &ensp;
 </p>
 <br/>
 
