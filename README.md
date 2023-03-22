@@ -11,9 +11,9 @@
 <ul>
  <li><h3>MERN stack developer with intuitive problem solving skills from Masai School,</h3></li>
  <li><h3>Curious to solve problems and learn emerging technologies,</h3></li>
- <li><h3>Passionate about projects and solving debugs,</h3></li>
+ <li><h3>Passionate about projects and debugging,</h3></li>
  <li><h3>Spent 1200+ hours in coding and DSA,  and carried out several group and individual projects,</h3></li>
- <li><h3>Looking forward to work as a team and as an individual to make a significant contribution to an organization</h3></li>
+ <li><h3>Looking forward to working as a team and as an individual to make a significant contribution to an organization</h3></li>
 </ul>
 <h4>**</h4>
 
